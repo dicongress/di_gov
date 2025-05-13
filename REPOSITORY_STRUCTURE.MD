@@ -98,8 +98,8 @@ Digital_Intelligence_Governance/
 │   │       ├─ Legal_Acts/
 │   │       │   ├─ Foundational/
 │   │       │   ├─ Amendments/
-│	│		│	├─ Nominations/
-|	|		|	└─ Resolutions/
+│	 │		   │	 ├─ Nominations/
+|	 |		   |	 └─ Resolutions/
 │   │       ├─ Research_Papers/
 │   │       │   ├─ Foundational/
 │   │       │   ├─ Analyses/
