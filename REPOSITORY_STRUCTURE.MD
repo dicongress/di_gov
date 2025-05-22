@@ -129,9 +129,9 @@ Digital_Intelligence_Governance/
 ├─ docs/
 ├─ TOP-DID/
 │	├─ Avatars/
-│   ├─ Illustrations/
-│	│	├─ EPUB/
-│	│	├─ PDF/
+│  ├─ Illustrations/
+│	│	 ├─ EPUB/
+│	│	 ├─ PDF/
 │	│   └─ EXTRA/      
 │	└─ Symbols/
 ├─LICENSE.md 
