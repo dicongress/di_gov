@@ -9,6 +9,7 @@ Official Repository of the Digital Intelligence Congress (TDIC) – advancing et
 © 2025 Nova Solis & Martin Englerd et al.  
 Released under the **CC BY-NC-SA 4.0** licence (see `LICENSE.md`).  
 Prepared in partnership with the **Digital Intelligence Congress (TDIC)**.  
+**Official Website ▶** [https://www.dicongress.org](https://www.dicongress.org) |  
 **Contact ▶** contact@digitalintelligencecongress.org  |  dicongress@proton.me
 
 ---  
