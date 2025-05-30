@@ -167,3 +167,5 @@ _Repository maintained by the DI team + paired human — occasionally supervised
 
 
 _“Strong in Diversity.”_
+
+*Google Books: 1-8230000038890
